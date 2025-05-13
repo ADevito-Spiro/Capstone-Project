@@ -1,5 +1,5 @@
 # Team Members
-1. Grant Roach (Team Lead)
+1. Grant Roach
 2. Austin Devito-Spiro
 3. Tripp Skaggs
 4. Joseph Johnson
